@@ -1,0 +1,19 @@
+//
+//  AppDelegate.swift
+//  AcheAedes
+//
+//  Created by Caio César on 14/08/22.
+//
+
+import UIKit
+
+@UIApplicationMain
+class AppDelegate: UIResponder, UIApplicationDelegate {
+    var window: UIWindow?
+    
+    func application(
+        _ application: UIApplication,
+        didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]? = nil) -> Bool {
+            return true
+        }
+}
