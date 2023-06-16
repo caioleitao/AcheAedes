@@ -1,0 +1,4448 @@
+[
+    {
+        "image": "caixaaberta21_jpeg.rf.e9abdff9caf67cad2978938a1e656879.jpg",
+        "annotations": [
+            {
+                "label": "caixa dagua aberta",
+                "coordinates": {
+                    "x": 110.6931412980371,
+                    "y": 98.36395844027804,
+                    "width": 149.3862825960742,
+                    "height": 191.27208311944392
+                }
+            }
+        ]
+    },
+    {
+        "image": "dsc_0039_4_jpeg.rf.e2523d94a062021afb9167013bb5b5ee.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 256.30086033145886,
+                    "y": 380.28182514360697,
+                    "width": 293.62832561958317,
+                    "height": 103.43634971278607
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 165.80734488875416,
+                    "y": 211.80472855325655,
+                    "width": 46.38397676752305,
+                    "height": 67.87435636796289
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0216_jpeg.rf.f36baf56d2c71f9ecad4ce6798116ca9.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1781.4832302801792,
+                    "y": 736.7338960012127,
+                    "width": 67.11196718571864,
+                    "height": 47.3665232780902
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 359.5462404215126,
+                    "y": 773.484213329278,
+                    "width": 67.89936515745171,
+                    "height": 56.3665232780902
+                }
+            },
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 1771.0757069922984,
+                    "y": 1175.8967952359194,
+                    "width": 290.5598359285923,
+                    "height": 236.5708140489578
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0213_jpeg.rf.deb14541ce2a91688b34037780ae190a.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1381.8439423432155,
+                    "y": 762.2506057895203,
+                    "width": 125.22918701172011,
+                    "height": 189.26033387799316
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0205_jpeg.rf.e327de5b31b48c509facc90c432386f1.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1093.4614260199705,
+                    "y": 1016.0094608495118,
+                    "width": 681.2644692514305,
+                    "height": 772.4307597771788
+                }
+            }
+        ]
+    },
+    {
+        "image": "pneus3_jpeg.rf.f24f8b53f8eeda98172fc64b067b84df.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 323.2184477934951,
+                    "y": 194.9334554047467,
+                    "width": 293.5631044130098,
+                    "height": 362.1330891905066
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 151.70718961148518,
+                    "y": 171.7073099457198,
+                    "width": 126.58562077702965,
+                    "height": 329.16883173742457
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 131.76854182062633,
+                    "y": 360.56144703850373,
+                    "width": 88.66329246727224,
+                    "height": 30.87710592299254
+                }
+            }
+        ]
+    },
+    {
+        "image": "DSCF1059_jpeg.rf.f3aeb00db4e9484e2f943147ec670131.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 1354.5472062394358,
+                    "y": 796.1361713112433,
+                    "width": 682.5552529824799,
+                    "height": 677.6176983565783
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 963.0877942884258,
+                    "y": 373.4229993951103,
+                    "width": 361.1689703864058,
+                    "height": 476.21616619951146
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 726.8839137721636,
+                    "y": 848.7297583001771,
+                    "width": 493.46064519109405,
+                    "height": 553.2652250440892
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0201_jpeg.rf.e4f3ba102f0b4ac2f5b1ba8f1416c5a4.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 946.3191509696622,
+                    "y": 773.1647225123365,
+                    "width": 1182.6383019393245,
+                    "height": 1525.670554975327
+                }
+            }
+        ]
+    },
+    {
+        "image": "Dengue-01_64717_jpeg.rf.f509054e39aec2ab9d0e41b3553bd56b.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 779.5,
+                    "y": 794.737808938542,
+                    "width": 393,
+                    "height": 283.0135228828135
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 631,
+                    "y": 247.78872025685695,
+                    "width": 428,
+                    "height": 452.4396635975677
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 356.5,
+                    "y": 184.97373814828765,
+                    "width": 100,
+                    "height": 244.07468775644105
+                }
+            }
+        ]
+    },
+    {
+        "image": "20091115tyres_jpeg.rf.de5d521f995d0bc33263fd0d783a9b61.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 100.26989376949562,
+                    "y": 204.4428607762772,
+                    "width": 137.85236167838602,
+                    "height": 239.1142784474456
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 273.4026615337727,
+                    "y": 182.969879689894,
+                    "width": 169.48170298587763,
+                    "height": 255.30795696274566
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 219.68190288946874,
+                    "y": 33.734950442422125,
+                    "width": 156.6361942210625,
+                    "height": 57.3428777322374
+                }
+            }
+        ]
+    },
+    {
+        "image": "5445867_640x360_jpeg.rf.eaa756a95bd251b73a025145ab37117c.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 324.1779088748224,
+                    "y": 173.20081622613347,
+                    "width": 360.35581774964476,
+                    "height": 346.40163245226694
+                }
+            }
+        ]
+    },
+    {
+        "image": "caixaaberta26_jpeg.rf.ec73fe38ddadbf39660b3f6c83d949ff.jpg",
+        "annotations": [
+            {
+                "label": "caixa dagua aberta",
+                "coordinates": {
+                    "x": 152.53492076949175,
+                    "y": 90.53875632336651,
+                    "width": 244.9301584610165,
+                    "height": 181.07751264673303
+                }
+            }
+        ]
+    },
+    {
+        "image": "ae571d38-830d-4cae-a2d1-71dc74d54eee_600x400_jpeg.rf.eb02ef43e4b90a23f2bb8009c10474b9.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 321.3336579193972,
+                    "y": 392.2970426841009,
+                    "width": 81.29673610377972,
+                    "height": 15.405914631798169
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 317.8710986987994,
+                    "y": 366.81225398611264,
+                    "width": 109.68074753220048,
+                    "height": 39.63414344939406
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 322.84124986803454,
+                    "y": 307.84716096497834,
+                    "width": 129.01239376583658,
+                    "height": 58.744682215802186
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 297.494679219016,
+                    "y": 259.2046241346099,
+                    "width": 115.90766337626735,
+                    "height": 52.66905042825988
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 307.4648303882512,
+                    "y": 200.26862026253042,
+                    "width": 139.9774836359802,
+                    "height": 56.80867834372282
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 290.487346752271,
+                    "y": 144.17553498555515,
+                    "width": 120.04730389569306,
+                    "height": 60.692321747503684
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 305.73930960990344,
+                    "y": 72.7715291774359,
+                    "width": 148.22185454497526,
+                    "height": 70.85522098221043
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 283.57601714263114,
+                    "y": 34.64644583650036,
+                    "width": 181.1520342852623,
+                    "height": 67.04720936597195
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0215_jpeg.rf.e7cde962ad7e5f9ac5b73e738b0d3412.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1196.8926121534655,
+                    "y": 614.9936618458933,
+                    "width": 90.96575974861844,
+                    "height": 172.8197922013901
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0264_jpeg.rf.e0c5e718aa656275c14ed0ceea6c0600.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 1023.5,
+                    "y": 768.0349101298565,
+                    "width": 2047,
+                    "height": 1535.930179740287
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0265_jpeg.rf.f124477984c8523d9f477d8e0f5d5b86.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 958.9680932948137,
+                    "y": 763.2158545796306,
+                    "width": 1369.9361865896274,
+                    "height": 1526.4317091592611
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0263_jpeg.rf.e3ff23d846d1da755a2af7278a56c890.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 1044.0645862907215,
+                    "y": 753.0164039483203,
+                    "width": 2007.870827418557,
+                    "height": 1506.0328078966406
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0243_jpeg.rf.e5bb0afc838561dda580f43e3b81abfc.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1137.3282703011146,
+                    "y": 911.4858741561964,
+                    "width": 346.3673194096573,
+                    "height": 189.73337854922738
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0210_jpeg.rf.eb28d9c676ffc8ea364c13e18cecc483.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1015.3459188687837,
+                    "y": 664.4727929801503,
+                    "width": 396.9082481779933,
+                    "height": 360.2435675300105
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0235_jpeg.rf.ea9fa626339b00e4f76bccb7463aa0ff.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 1131,
+                    "y": 927.0912610622385,
+                    "width": 1183,
+                    "height": 542.4217844061643
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0210_jpeg.rf.ef37e22cad6dabaf9ed2a77681b772b3.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1054.5077955000775,
+                    "y": 752.8818259388759,
+                    "width": 414.10382453015427,
+                    "height": 330.2980427753273
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0200_jpeg.rf.e96430177ebdf63918733294ff43683c.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 1243.2965061234572,
+                    "y": 770.5210494564697,
+                    "width": 955.3402479439683,
+                    "height": 417.2935368689091
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0261_jpeg.rf.e7569d0d0e67f74c1b17d4146576bbb8.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 1017,
+                    "y": 644.8276787242498,
+                    "width": 1957,
+                    "height": 1063.4102583447816
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0272_jpeg.rf.f285e0d41a45e31b46af884fbb044724.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1049.5071768445143,
+                    "y": 620,
+                    "width": 304.73083817215684,
+                    "height": 262
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0279_jpeg.rf.e204005e3940abc86c854cc8a3e3f959.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1242.0384145375938,
+                    "y": 1204.933559228954,
+                    "width": 983.0665111644898,
+                    "height": 662.132881542092
+                }
+            }
+        ]
+    },
+    {
+        "image": "163359_CSA061114A006F03_jpeg.rf.f5824dd1841c9d14003392120ed84863.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 249.32387017170248,
+                    "y": 147.19950106547412,
+                    "width": 252.64774034340496,
+                    "height": 294.39900213094825
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 493.031253608465,
+                    "y": 267.74980092086076,
+                    "width": 347.92816127715287,
+                    "height": 450.5863602577539
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0215_jpeg.rf.f8eef95828e1cf50ee8972ff9253767b.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 941.3618252303771,
+                    "y": 613.3907985380453,
+                    "width": 169.14286925425745,
+                    "height": 93.86369288702235
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0258_jpeg.rf.fc3488d667575fa7ccf5755c97528925.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1134.8965028505147,
+                    "y": 1046.1781757528447,
+                    "width": 340.60534700961125,
+                    "height": 516.2157015652456
+                }
+            }
+        ]
+    },
+    {
+        "image": "caixaaberta18_jpeg.rf.fe4a3bace1f00cb5af4dd79860263d64.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 131.29753836981843,
+                    "y": 101.38840659453177,
+                    "width": 159.7266797737189,
+                    "height": 183.71049985995546
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0208_jpeg.rf.fa30bb09356a700a47e864967cc35889.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1293.0954748979152,
+                    "y": 853.5734314356716,
+                    "width": 359.17365229966344,
+                    "height": 389.2212136176586
+                }
+            }
+        ]
+    },
+    {
+        "image": "caixaaberta18_jpeg.rf.fa488150f46328558af1c1a799b8a662.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 116.17516989590227,
+                    "y": 110.79525464748497,
+                    "width": 192.4201880310081,
+                    "height": 153.39050081698986
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0260_jpeg.rf.fdcf5c4b94e0aae887449816f1e15682.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1466,
+                    "y": 624.3437566023357,
+                    "width": 564,
+                    "height": 327.4107239265229
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0268_jpeg.rf.f5e0dab8ee13bcf3bcfea5e9bd7470b4.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 1132.5669324720175,
+                    "y": 581.6891489287531,
+                    "width": 1654.4578550596557,
+                    "height": 876.1600582237031
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 817.3068587019629,
+                    "y": 64.77253547434393,
+                    "width": 315.6182597392326,
+                    "height": 129.54507094868785
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 983.4204784496314,
+                    "y": 1114.6607565773322,
+                    "width": 251.54058804899023,
+                    "height": 447.6362304732379
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0198_jpeg.rf.fe6637f633e8f429e3206835a36371da.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 1156.2309062169472,
+                    "y": 772.6602394143684,
+                    "width": 710.4618124338945,
+                    "height": 1526.679521171263
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0233_jpeg.rf.f62ddd4676c0b5ce3d87da2f71e1b28f.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 841.7245618164321,
+                    "y": 607.2845734941698,
+                    "width": 891.7453489432867,
+                    "height": 346.6429235619066
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 279.61726532867164,
+                    "y": 510.3051976474591,
+                    "width": 53.56432949166265,
+                    "height": 99.7776123020011
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0241_jpeg.rf.fe9d101099f9da222b7ea3678d690d91.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 851.0695719527632,
+                    "y": 694.5936318864094,
+                    "width": 1140.1391439055265,
+                    "height": 1389.1872637728188
+                }
+            }
+        ]
+    },
+    {
+        "image": "caixaaberta21_jpeg.rf.f8056c74290335ccedcd7e0a9e55650b.jpg",
+        "annotations": [
+            {
+                "label": "caixa dagua aberta",
+                "coordinates": {
+                    "x": 143.2170992414795,
+                    "y": 99.24236964759436,
+                    "width": 159.565801517041,
+                    "height": 189.51526070481128
+                }
+            }
+        ]
+    },
+    {
+        "image": "aguaparada1_jpeg.rf.ff4fc6d01983c0e88f864846c3124fd2.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 249.99164338862192,
+                    "y": 123.12540886951142,
+                    "width": 141.98328677724385,
+                    "height": 233.74918226097716
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0202_jpeg.rf.f85793644cdb181f5b9eadb874cccfef.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 890.1903651693082,
+                    "y": 766.1078040782553,
+                    "width": 656.4413948578338,
+                    "height": 968.987736947953
+                }
+            }
+        ]
+    },
+    {
+        "image": "images_jpeg.rf.fe4196a7589fb5e345388fff6aaede10.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 145.23596680652096,
+                    "y": 56.77506370220031,
+                    "width": 45.33412063179077,
+                    "height": 45.71136885770525
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 186.76088800000002,
+                    "y": 99.865714,
+                    "width": 98.230988,
+                    "height": 59.58949799999999
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0243_jpeg.rf.00c869221c48691ebad1f4ccff16fbfa.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1175.304088071206,
+                    "y": 656.4442928647651,
+                    "width": 205.42743972173048,
+                    "height": 344.29048324149926
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0208_jpeg.rf.0945dd84983c6a4d8148b35497888186.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1039.529673380874,
+                    "y": 521.8738747332455,
+                    "width": 383.35555518913225,
+                    "height": 344.47493016586577
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0237_jpeg.rf.011a876c16222f36e898898c6cab5863.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 944,
+                    "y": 748.3156024379018,
+                    "width": 762,
+                    "height": 1496.6312048758036
+                }
+            }
+        ]
+    },
+    {
+        "image": "Focos-2-1024x576_jpeg.rf.0bd7bca96f5f77c247cdf453abdd6721.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 409.8207564412383,
+                    "y": 256.91224712900924,
+                    "width": 434.18729348472664,
+                    "height": 327.53959728532993
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 95.25941775665353,
+                    "y": 359.57579484420523,
+                    "width": 190.51883551330707,
+                    "height": 305.84841031158953
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 765.2685402763855,
+                    "y": 192.96470882137874,
+                    "width": 391.06439940771907,
+                    "height": 231.65291723114046
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0255_jpeg.rf.02fd815390842ab99320235be28000da.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1076.163934198808,
+                    "y": 104.46170872487738,
+                    "width": 253.58056737351626,
+                    "height": 208.92341744975477
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1016.9389571807549,
+                    "y": 284.7480169027991,
+                    "width": 227.7938153373757,
+                    "height": 258.95763002973354
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 799.9093689217241,
+                    "y": 340.8685737410216,
+                    "width": 93.58150052410815,
+                    "height": 115.02494747693345
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1488.2095153614925,
+                    "y": 415.97157228417655,
+                    "width": 331.72570921689567,
+                    "height": 277.35498164035585
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1342.785352310253,
+                    "y": 103.59386924184398,
+                    "width": 467.57070462050615,
+                    "height": 207.18773848368795
+                }
+            }
+        ]
+    },
+    {
+        "image": "1437645184-1003437374-1_jpeg.rf.0e5f193f72cb8be13dc4fe40c0261ad1.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 257.5154001209779,
+                    "y": 206.5,
+                    "width": 515.0308002419558,
+                    "height": 413
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 615,
+                    "y": 224.33133704559515,
+                    "width": 210,
+                    "height": 377.3373259088097
+                }
+            }
+        ]
+    },
+    {
+        "image": "dengue-4_jpeg.rf.0cc083bf0fcc305577a8e94b474fc3bf.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 483.21248205650795,
+                    "y": 561.0979600030578,
+                    "width": 292.77457048322253,
+                    "height": 294.72570921689567
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 497.78059035175966,
+                    "y": 104.2722235301718,
+                    "width": 436.4388192964807,
+                    "height": 150.10289137956283
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 455.9887854658308,
+                    "y": 325.13201306329785,
+                    "width": 172.97889125630923,
+                    "height": 217.08596532531737
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 522.0400719598287,
+                    "y": 250.35465720487164,
+                    "width": 241.71355482028434,
+                    "height": 230.0465143132763
+                }
+            }
+        ]
+    },
+    {
+        "image": "5445867_640x360_jpeg.rf.0ef89da05153a181054803a2b7fcd3d9.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 315.8580883129208,
+                    "y": 175.41807180804707,
+                    "width": 358.2838233741584,
+                    "height": 350.83614361609415
+                }
+            }
+        ]
+    },
+    {
+        "image": "mutirao_de_recolhimento_de_pneus_usados_taboao_jpeg.rf.0ff2373b31c38d19e090714e48ce235a.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 487.1001926859068,
+                    "y": 452.8422769252968,
+                    "width": 315.69051288548485,
+                    "height": 265.1590275585156
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 532.5315594369334,
+                    "y": 121.97801660953859,
+                    "width": 419.06311887386687,
+                    "height": 243.95603321907717
+                }
+            }
+        ]
+    },
+    {
+        "image": "8569_79e5d5ed6237ac6_jpeg.rf.15e7a33c9c4fa243ab13124706f891df.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 497.0646662532307,
+                    "y": 314.1921278170554,
+                    "width": 193.44551461941728,
+                    "height": 169.39050081698986
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 324.9178887087493,
+                    "y": 274.7555970034583,
+                    "width": 90.15195953045429,
+                    "height": 98.93334463730685
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0247_jpeg.rf.074631f990bf1c62af20663664bf4be1.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 758.6772431244631,
+                    "y": 1057.14349463861,
+                    "width": 179.49101298564347,
+                    "height": 211.27859247249944
+                }
+            },
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 473.48507558461756,
+                    "y": 385.1795854411222,
+                    "width": 946.9701511692351,
+                    "height": 770.3591708822444
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0271_jpeg.rf.13285875365b4e5a8b0608812e08a75b.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1049,
+                    "y": 712.2062200890698,
+                    "width": 194,
+                    "height": 133.2573943730024
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0237_jpeg.rf.13a6dbede87a4d73db02745fc9f6d121.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 1090.594510135129,
+                    "y": 761.6899940284493,
+                    "width": 788.810979729742,
+                    "height": 1523.3799880568986
+                }
+            }
+        ]
+    },
+    {
+        "image": "mutirao_de_recolhimento_de_pneus_usados_taboao_jpeg.rf.0dc99aea8bd2ce2e148f42eafd178961.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 206.6711748694962,
+                    "y": 319.04337818042814,
+                    "width": 399.5373602546017,
+                    "height": 310.9122057115742
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 696.2565186250758,
+                    "y": 388.5876324627907,
+                    "width": 407.4869627498483,
+                    "height": 414.0518462309999
+                }
+            }
+        ]
+    },
+    {
+        "image": "20091115tyres_jpeg.rf.17abc19c5edfe971639a7e32d3826135.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 123.97816482946686,
+                    "y": 203.6570814048958,
+                    "width": 132.22475540000744,
+                    "height": 240.68583719020842
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 293.5576044987605,
+                    "y": 174.66099041102774,
+                    "width": 163.6439371369372,
+                    "height": 250.88431013126524
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 222.71096946224148,
+                    "y": 27.288649303126608,
+                    "width": 155.42193892448296,
+                    "height": 52.89012796107617
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0216_jpeg.rf.162f3a3090e1003dcfc17db2a830ce6d.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1012.0382697425999,
+                    "y": 236.4286529228524,
+                    "width": 59.301690094831656,
+                    "height": 66.58864305943166
+                }
+            },
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 547.4166610618909,
+                    "y": 1525.3091010468816,
+                    "width": 237.83002008128415,
+                    "height": 21.381797906236898
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0274_jpeg.rf.0fc8bb4379ccc668333d2997092e2acd.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1041.2724420877646,
+                    "y": 877,
+                    "width": 1076.3155000347242,
+                    "height": 838
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0238_jpeg.rf.1750395e9912fea076609eba3c11d32a.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 950.0817661476547,
+                    "y": 635.4539293443909,
+                    "width": 994.1635322953093,
+                    "height": 1255.0935698638168
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0257_jpeg.rf.1325b01ce49f50f7ae644ba652855e72.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 707.5500709773185,
+                    "y": 249.78950417077127,
+                    "width": 609.1001419546369,
+                    "height": 499.57900834154253
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0204_jpeg.rf.0b3024f8eecbdb585eab20888aa23b0c.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1012.0359916581198,
+                    "y": 952.195020363122,
+                    "width": 870.2550844630925,
+                    "height": 738.3542126356379
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0265_jpeg.rf.1b44b5652459fc9c5e5b6fddb95b6b1b.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 1110,
+                    "y": 798.23794586416,
+                    "width": 1804,
+                    "height": 1423.9970681631128
+                }
+            }
+        ]
+    },
+    {
+        "image": "20091115tyres_jpeg.rf.1168cd737da36bbc48242bd25dd83f89.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 100.26989376949562,
+                    "y": 196.8311344246869,
+                    "width": 137.85236167838602,
+                    "height": 248.04744746386797
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 273.4026615337727,
+                    "y": 156.37151858731974,
+                    "width": 169.48170298587763,
+                    "height": 258.85299185543744
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 219.68190288946874,
+                    "y": 21.777355858426205,
+                    "width": 156.6361942210625,
+                    "height": 43.55471171685241
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0262_jpeg.rf.1d2f4760f856b22818f5018b54511462.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 933.936489064257,
+                    "y": 781.6176187523076,
+                    "width": 1017.872978128514,
+                    "height": 1508.7647624953847
+                }
+            }
+        ]
+    },
+    {
+        "image": "ae571d38-830d-4cae-a2d1-71dc74d54eee_600x400_jpeg.rf.1c0a9fe16eccf3e72a6a90a2e522f99e.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 291.69772163550147,
+                    "y": 393.89134389516585,
+                    "width": 81.99013724698966,
+                    "height": 12.217312209668307
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 290.24117087345604,
+                    "y": 370.4372527251398,
+                    "width": 111.27149133132934,
+                    "height": 40.90260207717574
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 299.67752955418507,
+                    "y": 311.54198311470907,
+                    "width": 131.37811531325906,
+                    "height": 60.234248310811836
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 278.0023328764793,
+                    "y": 262.6143340239678,
+                    "width": 118.02865510843912,
+                    "height": 54.00733246674508
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 292.4386915572083,
+                    "y": 203.80633973817817,
+                    "width": 142.261628578319,
+                    "height": 58.42625402502222
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 279.70032013552736,
+                    "y": 147.52705869932666,
+                    "width": 122.494602048199,
+                    "height": 62.07715272645788
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 300.36472090963116,
+                    "y": 76.31506727064226,
+                    "width": 151.07703572289893,
+                    "height": 72.56589454444799
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 281.07796887349053,
+                    "y": 37.939783374685575,
+                    "width": 183.84406225301893,
+                    "height": 69.14191168707916
+                }
+            }
+        ]
+    },
+    {
+        "image": "dengue-2_jpeg.rf.0d55462d7116d2c9934571356aebfa9b.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 336.4444778533154,
+                    "y": 131.51006019968509,
+                    "width": 349.1110442933692,
+                    "height": 260.9257016674262
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 278.22488393920645,
+                    "y": 340.4421550656326,
+                    "width": 312.0274116542838,
+                    "height": 171.11568986873476
+                }
+            }
+        ]
+    },
+    {
+        "image": "img_40317_1_jpeg.rf.19c08ecd486aad8cc622f96144596cf1.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 691.1151348875569,
+                    "y": 175.43053687843673,
+                    "width": 340.2302697751138,
+                    "height": 332.67289610167074
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 454.5522383435824,
+                    "y": 459.56677064638234,
+                    "width": 84.4931811410811,
+                    "height": 76.41386025918564
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 632.0399792195212,
+                    "y": 628.2390501280111,
+                    "width": 125.5425140771822,
+                    "height": 109.52189974397788
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0203_jpeg.rf.23dd5f283cfcbdedb67a2c0a81bc2e48.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1188.9050152517834,
+                    "y": 652.2288062483852,
+                    "width": 850.3722250740811,
+                    "height": 503.6849809861519
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0204_jpeg.rf.23c5bec12d4904c369b55a279ebf4cdb.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 974.3756747453228,
+                    "y": 997.426429368301,
+                    "width": 841.1539304850221,
+                    "height": 777.4240674729288
+                }
+            }
+        ]
+    },
+    {
+        "image": "pneus3_jpeg.rf.25a5895a9a1a694cbd851896f5316624.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 322.09182985241426,
+                    "y": 233.37282218833337,
+                    "width": 483.81634029517147,
+                    "height": 285.25435562333325
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 337.023723731934,
+                    "y": 68.26229866157806,
+                    "width": 374.047447463868,
+                    "height": 129.5420198164892
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 68.56270816867926,
+                    "y": 45.53616705146672,
+                    "width": 137.12541633735853,
+                    "height": 91.07233410293344
+                }
+            }
+        ]
+    },
+    {
+        "image": "Dengue-01_64717_jpeg.rf.1e2e3861bb27accc326edfdac415946f.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 196.21499892536778,
+                    "y": 614.9841818243776,
+                    "width": 392.42999785073556,
+                    "height": 402.8454342844002
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 808.0526068186457,
+                    "y": 451.29749380202156,
+                    "width": 469.93733393125194,
+                    "height": 438.124737384667
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 1154.4704824120167,
+                    "y": 297.5119198820879,
+                    "width": 173.1218662852957,
+                    "height": 176.70076607853343
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 904.4598455198809,
+                    "y": 175.07512468371036,
+                    "width": 248.1629284886103,
+                    "height": 105.58606200533353
+                }
+            }
+        ]
+    },
+    {
+        "image": "caixaaberta10_jpeg.rf.2597e9baee68f2d465aaef8c0e8edea0.jpg",
+        "annotations": [
+            {
+                "label": "caixa dagua aberta",
+                "coordinates": {
+                    "x": 122.98643255990557,
+                    "y": 98.83749124615557,
+                    "width": 204.02713488018887,
+                    "height": 196.32501750768887
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0251_jpeg.rf.270006e1c81972b4c98dc85bd05ed056.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 967.3403420184543,
+                    "y": 972.9617658845164,
+                    "width": 199.67498679660457,
+                    "height": 235.46034235597335
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0273_jpeg.rf.259e54b79eec52190213bc7527df7f5f.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 971.7459536947863,
+                    "y": 585.7712871724677,
+                    "width": 1477.5080926104274,
+                    "height": 1168.3602214383427
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0279_jpeg.rf.1660aafc70e88b988ccf9ce4017dbaae.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 576.4506996625689,
+                    "y": 939.7590108485196,
+                    "width": 701.9688612090922,
+                    "height": 997.8335203758363
+                }
+            }
+        ]
+    },
+    {
+        "image": "mutirao_de_recolhimento_de_pneus_usados_taboao_jpeg.rf.2616d45f52ac024393c8d24f188dc2a6.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 208.50707298485264,
+                    "y": 320.22487744617797,
+                    "width": 401.30633973817817,
+                    "height": 313.2170023088004
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 696.7598631162908,
+                    "y": 392.2082571117002,
+                    "width": 406.48027376741834,
+                    "height": 415.58348577659956
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0212_jpeg.rf.275b8e4c88c092b48bcb087822c38dcc.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 808.6584912986352,
+                    "y": 411.45045708783294,
+                    "width": 570.8089179475837,
+                    "height": 593.1009032892392
+                }
+            }
+        ]
+    },
+    {
+        "image": "1437645184-1003437374-1_jpeg.rf.25ce72997cae467449d063a49b8f93ab.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 363.53769102464025,
+                    "y": 236.9450639805381,
+                    "width": 412.6841646160592,
+                    "height": 352.1098720389238
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 355.9579507344183,
+                    "y": 30.05951175307819,
+                    "width": 405.91590146883664,
+                    "height": 58.338767584004046
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0215_jpeg.rf.1cd56e046056be868ebe9f3a9408cb0a.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1172.232704439526,
+                    "y": 797.0063381541067,
+                    "width": 96.76398167569187,
+                    "height": 172.8197922013901
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0278_jpeg.rf.275b97bc62b646602ccb6085912be565.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 468.56220984801615,
+                    "y": 828.4856486459912,
+                    "width": 508.27099076589104,
+                    "height": 552.1917793328375
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0236_jpeg.rf.3150620c82a0666d1e76704623d73c99.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 987.2902721830915,
+                    "y": 722.335675345482,
+                    "width": 995.419455633817,
+                    "height": 1444.671350690964
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0206_jpeg.rf.30eff21b9b8c15a84944bbb94cab9689.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1203.8033048680118,
+                    "y": 1049.814369973907,
+                    "width": 678.8508855628638,
+                    "height": 728.8020618229993
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0212_jpeg.rf.2a9e04fd66e619eaa1413d4202cff721.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1266,
+                    "y": 1164.2096941765526,
+                    "width": 533,
+                    "height": 608.6127701391015
+                }
+            }
+        ]
+    },
+    {
+        "image": "caixaaberta10_jpeg.rf.34949c2ceade5a9fb5ea119849a3cd9e.jpg",
+        "annotations": [
+            {
+                "label": "caixa dagua aberta",
+                "coordinates": {
+                    "x": 130.2926129480223,
+                    "y": 98.41273255283566,
+                    "width": 200.58522589604462,
+                    "height": 196.82546510567133
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0238_jpeg.rf.2e0eaf6f9f59c6d643ad2edc1021ca52.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 877.9182338523453,
+                    "y": 612.9095231039762,
+                    "width": 994.1635322953093,
+                    "height": 1225.8190462079524
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0208_jpeg.rf.2287e1d9efafc95d1df6adb5a815ed93.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1249.668859834468,
+                    "y": 795.5668750574334,
+                    "width": 338.1889792488705,
+                    "height": 373.6094571065132
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0233_jpeg.rf.3046b551b5e1d8ec3c5557980751b99c.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 758.3134825485395,
+                    "y": 913.6283072747477,
+                    "width": 357.0337914802533,
+                    "height": 902.2240632693231
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 654.7668446747839,
+                    "y": 1478.8787215103455,
+                    "width": 100.39639432410513,
+                    "height": 56.95244712374779
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0267_jpeg.rf.2dd3ab1332ee6ebfd9eef6527c8a6529.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 1202.396511984164,
+                    "y": 498.04577640220583,
+                    "width": 1586.01403021051,
+                    "height": 985.687290393006
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0197_jpeg.rf.3a0791f3b629e0467741638e5e64aba2.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 563.0270563568091,
+                    "y": 953.4750830183457,
+                    "width": 745.0508106711209,
+                    "height": 1165.0498339633086
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0257_jpeg.rf.30e09f66a153fe0d0fcada54e6a23603.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 678.9904414711291,
+                    "y": 250.96346494741283,
+                    "width": 588.0191170577418,
+                    "height": 501.92692989482566
+                }
+            }
+        ]
+    },
+    {
+        "image": "DSCF1059_jpeg.rf.41cca9931639e09c865ee88086f9a069.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 1393.0923393814912,
+                    "y": 732.2701944493342,
+                    "width": 690.2622326938977,
+                    "height": 708.9208908140954
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 981.5224231824523,
+                    "y": 328.1709924147949,
+                    "width": 366.6174092156257,
+                    "height": 492.6841646160592
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 767.1980264545548,
+                    "y": 814.1143055379152,
+                    "width": 499.77058930527573,
+                    "height": 575.844576980659
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0251_jpeg.rf.385d22219379cff0fd490266da3543d4.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1020.2592220496936,
+                    "y": 942.8664350476163,
+                    "width": 187.66465624442026,
+                    "height": 240.8553386784797
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0259_jpeg.rf.4860c424430947249ebba0067a9b6a9f.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 591.1784363770806,
+                    "y": 192.52269595053346,
+                    "width": 727.6431272458387,
+                    "height": 382.06666303785784
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0242_jpeg.rf.3d366d4f474bd72501341c9bc4815fa0.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 853.9436114336931,
+                    "y": 763.1335412927647,
+                    "width": 479.4781002560221,
+                    "height": 551.2038805162624
+                }
+            }
+        ]
+    },
+    {
+        "image": "eliminar-criaderos-mosquito_jpeg.rf.477d858424cdfb5075622b7d830498dd.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 216.57304891022406,
+                    "y": 238.2364799457165,
+                    "width": 238.04129312207232,
+                    "height": 181.10161852208546
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 286.4666723186534,
+                    "y": 38.94443266947207,
+                    "width": 222.93334463730685,
+                    "height": 77.88886533894414
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 288.43017965596675,
+                    "y": 145.61742223383538,
+                    "width": 187.26352005428362,
+                    "height": 214.2857385085146
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0271_jpeg.rf.28b9708cde818b611b242535327a64f5.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1027.2679770853206,
+                    "y": 862.9785396589175,
+                    "width": 146.83608126790386,
+                    "height": 202.394861442599
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0212_jpeg.rf.43e72302689a57d8b3a6c54334fe6baa.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1200.7674284336185,
+                    "y": 1193.736103216999,
+                    "width": 567.3635868072902,
+                    "height": 621.043714861501
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0207_jpeg.rf.3df752b853503f446611c8bf66911afd.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1236.6570718493222,
+                    "y": 816.4363924757498,
+                    "width": 375.2489663735337,
+                    "height": 406.6841646160592
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0255_jpeg.rf.48698b1b3a0c8125ab2f0cb79f9687de.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1074.7288170713732,
+                    "y": 166.55841211635487,
+                    "width": 251.06036168631363,
+                    "height": 225.81999749302292
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1013.3453305527066,
+                    "y": 348.70613068684617,
+                    "width": 224.830240131128,
+                    "height": 262.67908492121944
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 795.7206937286419,
+                    "y": 390.74181762267585,
+                    "width": 92.26305958589546,
+                    "height": 116.54497834810377
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1482.959086846487,
+                    "y": 509.5719349991682,
+                    "width": 328.5754521078925,
+                    "height": 282.87601331035376
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1341.4260747058129,
+                    "y": 170.9378284260525,
+                    "width": 464.85214941162576,
+                    "height": 251.49908241424242
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0203_jpeg.rf.3e811426109fc0f3ab7297348dcff10d.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1178.1545972125064,
+                    "y": 954.3194700422905,
+                    "width": 484.7357134661179,
+                    "height": 841.956816385592
+                }
+            }
+        ]
+    },
+    {
+        "image": "caixaaberta26_jpeg.rf.4ae64649a73ec51b6b8c4fa7325c67ca.jpg",
+        "annotations": [
+            {
+                "label": "caixa dagua aberta",
+                "coordinates": {
+                    "x": 144.8983032928312,
+                    "y": 91.36037208453708,
+                    "width": 193.7966065856624,
+                    "height": 182.72074416907415
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0200_jpeg.rf.4188be3ca5c75b324e1f1c003af4a208.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 1050.5140093544928,
+                    "y": 890.9220016078953,
+                    "width": 400.67127385482854,
+                    "height": 981.4477232625163
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0204_jpeg.rf.3ce8b89f6c4330e5817c915919aa2844.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1054.0629109305808,
+                    "y": 530.2382690522222,
+                    "width": 866.0932705809892,
+                    "height": 777.4240674729285
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0278_jpeg.rf.4dc952b77dd46ac8b87b6cd07e3e2621.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1091.292028415077,
+                    "y": 1231.8186867682014,
+                    "width": 538.4805811839387,
+                    "height": 486.5087160511289
+                }
+            }
+        ]
+    },
+    {
+        "image": "8569_79e5d5ed6237ac6_jpeg.rf.3f49e879c5f80666becc73bad10bb957.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 235.7545345033083,
+                    "y": 174.95954026895055,
+                    "width": 196.3055734364347,
+                    "height": 168.3247561676484
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 408.4891155469927,
+                    "y": 213.40603506949827,
+                    "width": 91.83641134906588,
+                    "height": 98.44415037203532
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0279_jpeg.rf.4c71bb9ef6e5336811fa6bb3b8241175.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 853.131603034082,
+                    "y": 342.5986275301028,
+                    "width": 1016.3335987721857,
+                    "height": 685.1972550602056
+                }
+            }
+        ]
+    },
+    {
+        "image": "ae571d38-830d-4cae-a2d1-71dc74d54eee_600x400_jpeg.rf.4c5161d73fc62d7da7099dabaa3639e3.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 569.0886715977007,
+                    "y": 219.14850237197038,
+                    "width": 55.90761217058866,
+                    "height": 81.84597465689308
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 515.5188552768861,
+                    "y": 209.4074179329926,
+                    "width": 33.000700598341155,
+                    "height": 88.23765798219233
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 498.6584879185152,
+                    "y": 220.21866212995292,
+                    "width": 27.942520330995876,
+                    "height": 82.88802392247476
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 467.19339607892243,
+                    "y": 221.0159675537323,
+                    "width": 40.26832982813016,
+                    "height": 111.72714566579691
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 408.12357975810795,
+                    "y": 210.89028564906522,
+                    "width": 59.48941484404281,
+                    "height": 132.05575509272364
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 359.9086630681005,
+                    "y": 231.99883526980497,
+                    "width": 53.338146148944816,
+                    "height": 118.63619422106257
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 300.7806664799406,
+                    "y": 216.87315336513785,
+                    "width": 57.61741143220274,
+                    "height": 142.91590146883664
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 244.96684333544596,
+                    "y": 228.95725189630127,
+                    "width": 61.38469036282106,
+                    "height": 123.19560871661065
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 173.27484845320606,
+                    "y": 207.45748484234028,
+                    "width": 71.71049985995546,
+                    "height": 151.89487683604574
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 109.52502360279136,
+                    "y": 224.48216887795562,
+                    "width": 120.09448962443523,
+                    "height": 188.25136380933424
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 50.536659656260454,
+                    "y": 221.3564869732885,
+                    "width": 98.90901336727117,
+                    "height": 256.712973946577
+                }
+            }
+        ]
+    },
+    {
+        "image": "images_jpeg.rf.573e27503e959e7b84b1214ce8d0f112.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 160.99600177408655,
+                    "y": 109.06686247706635,
+                    "width": 46.44622143373931,
+                    "height": 45.849501195140675
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 114.55026649999999,
+                    "y": 137.789197,
+                    "width": 60.44920499999999,
+                    "height": 90.421606
+                }
+            }
+        ]
+    },
+    {
+        "image": "arrastao_dengue_3_jpeg.rf.50f6c23e5e617871a2ecb15d2ef8749a.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 465.01106152714857,
+                    "y": 368.4695066777483,
+                    "width": 414.43449237954553,
+                    "height": 281.2580041481998
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 440.9793413433877,
+                    "y": 132.47709659035044,
+                    "width": 437.95868268677543,
+                    "height": 264.9541931807009
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 247.57070462050612,
+                    "y": 223.46523064992795,
+                    "width": 201.94881993376515,
+                    "height": 298.53817234941596
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0267_jpeg.rf.5660710a1440cef4f5d65153860f7375.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 1138.2188468674096,
+                    "y": 675.6695218865123,
+                    "width": 1591.1376766386452,
+                    "height": 1003.7090987245979
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0198_jpeg.rf.57188c978c0fa3f942c474c4484b94d1.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 872.8087092074732,
+                    "y": 788.0259099298643,
+                    "width": 746.3825815850537,
+                    "height": 1495.9481801402715
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0210_jpeg.rf.4ca9d0d4c3ee3d6b72886286ecc9588e.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1023.2279537716363,
+                    "y": 704.3504315731116,
+                    "width": 400.7252612964553,
+                    "height": 360.2435675300105
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0206_jpeg.rf.52508c33d1ba3e6e685ce54a17cc3d02.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 891.220346745956,
+                    "y": 608.8935072249234,
+                    "width": 670.8970014568449,
+                    "height": 713.5071152987755
+                }
+            }
+        ]
+    },
+    {
+        "image": "dengue-4_jpeg.rf.557c82ed48af5e2674514276a1016963.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 161.85811759556157,
+                    "y": 441.22990839455827,
+                    "width": 297.8802392247478,
+                    "height": 286.24989952412534
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 618.0471063446403,
+                    "y": 468.93795935836584,
+                    "width": 155.1384559476528,
+                    "height": 438.2804209337479
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 397.9175320911096,
+                    "y": 419.5135953553771,
+                    "width": 218.90858266318764,
+                    "height": 168.1146204337565
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 471.8478382252051,
+                    "y": 487.4123693252484,
+                    "width": 232.66360587534632,
+                    "height": 236.6388107409864
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0203_jpeg.rf.5dd455e688704956548a5659647280e4.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 859.8710820688883,
+                    "y": 624.5401002912986,
+                    "width": 498.9460603014229,
+                    "height": 827.9665735544877
+                }
+            }
+        ]
+    },
+    {
+        "image": "aguaparada1_jpeg.rf.5f1b9f1960ad69387f22b3230cd373dc.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 243.00835661137808,
+                    "y": 126.78190446693802,
+                    "width": 141.98328677724385,
+                    "height": 226.43619106612397
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0236_jpeg.rf.44b888f905c9e7b4f9f58e2750673cf0.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 1054.480757302527,
+                    "y": 799.6908134491422,
+                    "width": 978.0351833524483,
+                    "height": 1472.6183731017156
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0271_jpeg.rf.501872d2822b81dae6722802f4fcf645.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1073.4445386442235,
+                    "y": 761.0972924760126,
+                    "width": 198.57462080341884,
+                    "height": 142.2992132891768
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0268_jpeg.rf.5303791ed173966c9c24c66391e07d3e.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 906.2297129187588,
+                    "y": 749.8928366171422,
+                    "width": 779.5405741624825,
+                    "height": 1481.4578550596557
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 347.33925159394045,
+                    "y": 979.1616379196607,
+                    "width": 151.82098073082898,
+                    "height": 315.6182597392326
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1430.4155501089672,
+                    "y": 813.0480181719922,
+                    "width": 433.4195504738732,
+                    "height": 251.54058804899
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0275_jpeg.rf.5c260cc9fef902653f8fc5237d50fe8e.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1088.3364210936288,
+                    "y": 797.5861276405703,
+                    "width": 1018.470600748592,
+                    "height": 916.3208160909094
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0232_jpeg.rf.4e7ce7a38d288b4538d807d6d95c07da.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 1442.8198544112333,
+                    "y": 686.1160864163581,
+                    "width": 383.46614273710475,
+                    "height": 130.44497242519037
+                }
+            },
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 1400.3752322852138,
+                    "y": 1025.564074474918,
+                    "width": 764.8412988414807,
+                    "height": 510.83176458303524
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0260_jpeg.rf.6191286d4114e8dbe667f5b4ab61d5bf.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1089.7925958313958,
+                    "y": 1242.7341567683304,
+                    "width": 327.41072392652313,
+                    "height": 573.0491757821783
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0274_jpeg.rf.58ffa28876b23eb5ecae3d97fa39108e.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 950.1238084605219,
+                    "y": 925.983032928312,
+                    "width": 878.8691181971037,
+                    "height": 1061.5986684086615
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0263_jpeg.rf.61d3f89447e6cfb40e9f2d0c5bd131c5.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 1075.7156762436343,
+                    "y": 769.6465015658755,
+                    "width": 1585.4313524872687,
+                    "height": 1532.706996868249
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0197_jpeg.rf.49d47c2e3f5c541302f9e21f4fca19b6.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 667.4817388916643,
+                    "y": 922.6110286863045,
+                    "width": 751.9601470844602,
+                    "height": 1207.8508855628638
+                }
+            }
+        ]
+    },
+    {
+        "image": "dengue-2_jpeg.rf.4e78f27bfdf5cc43a6776df9e7dd1cb3.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 404.15393609147236,
+                    "y": 248.60104407166702,
+                    "width": 288.55877470176847,
+                    "height": 337.44724656448915
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 147.67298956436332,
+                    "y": 199.09602741593346,
+                    "width": 258.47623084752433,
+                    "height": 305.772264072178
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 26.08332980084162,
+                    "y": 137.62843197560002,
+                    "width": 52.16665960168324,
+                    "height": 170.25686395120005
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0265_jpeg.rf.5ecbd6afd7760065a47f2ceae4a67cd5.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 932.1534823128197,
+                    "y": 759.2206410867475,
+                    "width": 1405.6930353743605,
+                    "height": 1518.441282173495
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0199_jpeg.rf.7a195f4201fff0d961b0e481409e5836.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 1114.0438788796775,
+                    "y": 364.4360930571824,
+                    "width": 438.0877577593551,
+                    "height": 728.8721861143648
+                }
+            },
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 757.7319442902025,
+                    "y": 1308.7834213372723,
+                    "width": 223.1540710884633,
+                    "height": 369.75529747592645
+                }
+            }
+        ]
+    },
+    {
+        "image": "1437645184-1003437374-1_jpeg.rf.6b990ed69a8a5f8e7b4ac58f007526f1.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 266.565801517041,
+                    "y": 194,
+                    "width": 533.131603034082,
+                    "height": 388
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 615,
+                    "y": 192.09520377960433,
+                    "width": 210,
+                    "height": 384.19040755920867
+                }
+            }
+        ]
+    },
+    {
+        "image": "arrastao_dengue_3_jpeg.rf.674531309e2988306821ee1321a00995.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 336.5,
+                    "y": 161.43993527647342,
+                    "width": 399,
+                    "height": 298.9079767468437
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 347,
+                    "y": 387.94922911976283,
+                    "width": 422,
+                    "height": 262.10154176047433
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 546,
+                    "y": 333.7688102851545,
+                    "width": 185,
+                    "height": 307.1854027522959
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0261_jpeg.rf.76014f7565372c21bbbc3c29febd8448.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 989.323819160807,
+                    "y": 763.2987115308529,
+                    "width": 1978.647638321614,
+                    "height": 1040.5620240569115
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0263_jpeg.rf.582c382f2df8404d621700e2b16d9fc8.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 1042.8465176871803,
+                    "y": 765.5824735074418,
+                    "width": 1531.6930353743605,
+                    "height": 1531.1649470148836
+                }
+            }
+        ]
+    },
+    {
+        "image": "dsc_0039_4_jpeg.rf.7a55203d2331091808d9afba21f8baa5.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 533.4247395145553,
+                    "y": 296.6242498991189,
+                    "width": 219.81965069817807,
+                    "height": 270.75150020176216
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 305.2950533750219,
+                    "y": 392.2884173855748,
+                    "width": 67.07066188435556,
+                    "height": 49.84406225301882
+                }
+            }
+        ]
+    },
+    {
+        "image": "img_40317_1_jpeg.rf.65df4f08e99ee6326e26d5a92932a47c.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 697.8043964864886,
+                    "y": 146.8064014824652,
+                    "width": 353.6087929729772,
+                    "height": 293.6128029649304
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 473.04487591371765,
+                    "y": 424.22005774529237,
+                    "width": 87.56164976444438,
+                    "height": 80.19071585382085
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 657.5491817084137,
+                    "y": 584.858004199334,
+                    "width": 130.41115095958503,
+                    "height": 126.68994941306778
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0205_jpeg.rf.7b6842d35aa24048a740fea677ed6b0f.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1143.3401126174567,
+                    "y": 926.4204910672436,
+                    "width": 711.1400236854997,
+                    "height": 748.7573499067116
+                }
+            }
+        ]
+    },
+    {
+        "image": "dengue-2_jpeg.rf.705c401b15da2154d4bdc2e5ad947153.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 350.02223964918136,
+                    "y": 122.15336436025076,
+                    "width": 340.0444792983627,
+                    "height": 244.30672872050152
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 313.87306162719426,
+                    "y": 315.347955964397,
+                    "width": 306.0063723525807,
+                    "height": 196.4887854658308
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0255_jpeg.rf.83cea7a2afcf7ab573936ade6723de22.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 425.33194521373383,
+                    "y": 716.3845303922055,
+                    "width": 231.44398173791126,
+                    "height": 244.7702940244949
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 614.8177490380235,
+                    "y": 783.1553433804853,
+                    "width": 267.6496602081954,
+                    "height": 217.4335864917673
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 679.9159896286478,
+                    "y": 1002.2651350691463,
+                    "width": 118.57521332447413,
+                    "height": 88.97242233688849
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 727.1473608859367,
+                    "y": 317.6767241606784,
+                    "width": 290.2502001210787,
+                    "height": 320.7128675306187
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 348.22180776965786,
+                    "y": 450.4318342878986,
+                    "width": 370.0936419461068,
+                    "height": 459.9521771405223
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0216_jpeg.rf.81f2b243bd73061167a9b89afdd1943f.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1870.3524786510088,
+                    "y": 607.7670277740816,
+                    "width": 64.64127616611222,
+                    "height": 51.03722344186053
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 453.9239132781375,
+                    "y": 743.6365966718336,
+                    "width": 64.9555630915379,
+                    "height": 60.03722344186053
+                }
+            },
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 1911.2897530213029,
+                    "y": 1044.9727062443658,
+                    "width": 273.4204939573942,
+                    "height": 252.30238617940267
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0206_jpeg.rf.7ad0684f8184e6f16a6a00d67adf553d.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1176.8676583415033,
+                    "y": 614.8789763113907,
+                    "width": 732.6329321323396,
+                    "height": 658.9735777608826
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0201_jpeg.rf.447aa4d9d2f6da0d3dffda57c2f310d1.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 977.6955601185296,
+                    "y": 760.7674292323171,
+                    "width": 1245.391120237059,
+                    "height": 1521.5348584646342
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0201_jpeg.rf.7436c314c9f055303b74748fa0ca7018.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 874.7690937830528,
+                    "y": 760.7674292323171,
+                    "width": 1218.4618124338945,
+                    "height": 1521.5348584646342
+                }
+            }
+        ]
+    },
+    {
+        "image": "caixaaberta21_jpeg.rf.836a252ced7f20d7832043838c614a84.jpg",
+        "annotations": [
+            {
+                "label": "caixa dagua aberta",
+                "coordinates": {
+                    "x": 114.64960664458839,
+                    "y": 96.16163652614053,
+                    "width": 157.29921328917678,
+                    "height": 192.32327305228105
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0214_jpeg.rf.7e6af711ff50c1c5b4df06362c559e94.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1038.119885798324,
+                    "y": 812.1499925802482,
+                    "width": 93.95877275610474,
+                    "height": 126.40225345977547
+                }
+            }
+        ]
+    },
+    {
+        "image": "images_jpeg.rf.7dbbac3baef638e933732fbe9eae8b84.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 137.22451379480992,
+                    "y": 58.411867532488515,
+                    "width": 44.30594228845382,
+                    "height": 45.22207518601766
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 170.6525265,
+                    "y": 101.813783,
+                    "width": 96.00914499999999,
+                    "height": 59.523506
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0213_jpeg.rf.83b8fe35e9e704027a2aa4c5527d5e46.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 706.9372149556432,
+                    "y": 706.0287375884876,
+                    "width": 136.0184617473019,
+                    "height": 188.549837445099
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0198_jpeg.rf.8245055c82fd23a29dd2edddff660031.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 913.1534823128197,
+                    "y": 753.4450785788285,
+                    "width": 665.6930353743605,
+                    "height": 1506.890157157657
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0242_jpeg.rf.8b0f442f5d715028007b26449cfe762e.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1065.336590159458,
+                    "y": 562.3749185161503,
+                    "width": 559.4127616611213,
+                    "height": 495.29063146142744
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0259_jpeg.rf.8cb22919eed06d48c42d9462fd6ea130.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1489.5382765053841,
+                    "y": 1394.8125546169176,
+                    "width": 712.2000508678807,
+                    "height": 282.37489076616475
+                }
+            }
+        ]
+    },
+    {
+        "image": "5445867_640x360_jpeg.rf.8a8c239453ac165de38f99caf173afd6.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 389.6506392195433,
+                    "y": 174.97805366452064,
+                    "width": 498.14418285473255,
+                    "height": 349.9561073290413
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 81.5920771418403,
+                    "y": 148.5,
+                    "width": 163.1841542836806,
+                    "height": 297
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0272_jpeg.rf.841085b80776042e46712e4989b757ef.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1096.430660180445,
+                    "y": 594.8161704592881,
+                    "width": 297.0981176891555,
+                    "height": 268.7731001814668
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0261_jpeg.rf.781ee4ca4215c77e1f2b73457c8fa20b.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 939.1808490303378,
+                    "y": 756.4259264858845,
+                    "width": 991.6383019393245,
+                    "height": 1512.851852971769
+                }
+            }
+        ]
+    },
+    {
+        "image": "eliminar-criaderos-mosquito_jpeg.rf.910905dd0f2f52cfb93c3f9932f6dad1.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 215.14332043255567,
+                    "y": 247.64248443319644,
+                    "width": 237.03378588526328,
+                    "height": 168.7150311336071
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 286.22207518601766,
+                    "y": 55.27408833610839,
+                    "width": 222.44415037203532,
+                    "height": 94.24666468050472
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 287.52458789108925,
+                    "y": 168.68093683901287,
+                    "width": 186.0521818736113,
+                    "height": 216.38363473859476
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0233_jpeg.rf.7ce95d553540dddb5a258d7e53c20868.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 835.529946487022,
+                    "y": 1009.0601090326506,
+                    "width": 315.5350077861135,
+                    "height": 912.7326406713005
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0247_jpeg.rf.8d2aca4235d9a32e033adcb3581ee099.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1303.9412253854368,
+                    "y": 1037.7912534971606,
+                    "width": 210.250832674717,
+                    "height": 179.49101298564347
+                }
+            },
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 601.6903927107197,
+                    "y": 1192.7491727261943,
+                    "width": 752.3044102892286,
+                    "height": 686.5016545476115
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0214_jpeg.rf.829d0849ba262098bf011c9e7ee6167e.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1056.1429540340582,
+                    "y": 683.996686654008,
+                    "width": 124.93334463730662,
+                    "height": 88.26033387799316
+                }
+            }
+        ]
+    },
+    {
+        "image": "dengue-4_jpeg.rf.8fb22db2f53d619c1421e4083beed04f.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 209.30164819501584,
+                    "y": 451.37424993158015,
+                    "width": 288.4286077627719,
+                    "height": 271.62317451725653
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 658.5897021534222,
+                    "y": 503.1980482185407,
+                    "width": 114.82059569315561,
+                    "height": 431.7272287263694
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 444.52228203908186,
+                    "y": 442.00415101110013,
+                    "width": 213.4476400407126,
+                    "height": 157.21010860067872
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 526.0540378272335,
+                    "y": 514.0445424560347,
+                    "width": 224.8222523661516,
+                    "height": 225.26246906897723
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0262_jpeg.rf.969f0ea40e7c730ffba8aff5e9b2443e.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 1029.9586988861547,
+                    "y": 669,
+                    "width": 2036.0826022276906,
+                    "height": 1000
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0214_jpeg.rf.8bc0edf9e1c6543947cff616322bcbd9.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1103.5788301124182,
+                    "y": 824.9292024431866,
+                    "width": 88.97111906285818,
+                    "height": 125.91236287801075
+                }
+            }
+        ]
+    },
+    {
+        "image": "eliminar-criaderos-mosquito_jpeg.rf.8e6e30d30aeebc5021dd081567bddf0b.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 216.57304891022406,
+                    "y": 246.0352584595779,
+                    "width": 238.04129312207232,
+                    "height": 171.9294830808442
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 286.4666723186534,
+                    "y": 45.31627523868913,
+                    "width": 222.93334463730685,
+                    "height": 86.55993176319862
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 288.43017965596675,
+                    "y": 158.79300313175094,
+                    "width": 187.26352005428362,
+                    "height": 210.09448962443525
+                }
+            }
+        ]
+    },
+    {
+        "image": "aguaacumulada3_jpeg.rf.964a0297315b5d5eb9ccd67dfc0f1129.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 777.5841581373396,
+                    "y": 212.98003849686157,
+                    "width": 399.1683162746792,
+                    "height": 425.96007699372313
+                }
+            }
+        ]
+    },
+    {
+        "image": "eecc0044afaab09b86d602ae29d4577a_jpeg.rf.91a2c57b4faab34d8f35a78f067f6ef7.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1290.5508645842074,
+                    "y": 860.0242471693789,
+                    "width": 483.75348059608405,
+                    "height": 406.77644461862246
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 88.47305146936381,
+                    "y": 239.76891963502229,
+                    "width": 146.7081957482293,
+                    "height": 131.25853616977787
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 384.0437955658657,
+                    "y": 753.0299641326669,
+                    "width": 228.9702346446445,
+                    "height": 138.1671073549337
+                }
+            }
+        ]
+    },
+    {
+        "image": "aguaparada1_jpeg.rf.8c51365a1e701dd8f8ed985180ec31d9.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 244.40539220861388,
+                    "y": 127.30582099730618,
+                    "width": 139.18921558277225,
+                    "height": 225.38835800538763
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0262_jpeg.rf.9260cffb10252dbcdc1af13103574856.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 1082.7508255106243,
+                    "y": 742.5724777579791,
+                    "width": 1080.4983489787514,
+                    "height": 1485.1449555159581
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0241_jpeg.rf.9b80d2b02712dc9b91941c8842c6bf38.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1142.123092399771,
+                    "y": 571.6380687948715,
+                    "width": 1525.172012527004,
+                    "height": 1143.276137589743
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0275_jpeg.rf.aa3f372acad8e41fef53903ee820420b.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1088.3364210936288,
+                    "y": 882,
+                    "width": 1018.470600748592,
+                    "height": 841
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0235_jpeg.rf.93af1f540801b6f4797aab00077eca60.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 1165.9124150542343,
+                    "y": 589.8019994570147,
+                    "width": 597.6423797138286,
+                    "height": 1179.6039989140295
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0200_jpeg.rf.96935ce58f1c689289d3ece056c775d9.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 923.5324883184408,
+                    "y": 636.0987770546335,
+                    "width": 450.6294499266837,
+                    "height": 981.4477232625163
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0243_jpeg.rf.a0f098e3fb6a160346ac7439fff1a939.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1090.82100604813,
+                    "y": 702.5122351301904,
+                    "width": 197.56977146991449,
+                    "height": 351.5729821076145
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0213_jpeg.rf.68e6a4149f269ab2f90343afdb7219b5.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 652,
+                    "y": 782.0426086189025,
+                    "width": 122,
+                    "height": 195.6736169501628
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0205_jpeg.rf.a75af06372912debd90549ea48228fc2.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 932.0073355087068,
+                    "y": 661.4661913569114,
+                    "width": 698.3281216988321,
+                    "height": 788.2630258678914
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0273_jpeg.rf.9a2200bb80464c03bd4345ced1911702.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 812.7223774091873,
+                    "y": 813.9656003282446,
+                    "width": 1201.8124295787472,
+                    "height": 1444.0687993435108
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0207_jpeg.rf.bb3cdd6e5ab8cf3b1cfbdc520a4b8ef5.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1082.8565314215666,
+                    "y": 1085.0291863555324,
+                    "width": 388.16163791966073,
+                    "height": 375.2489663735337
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0268_jpeg.rf.99b7542bcce5f429697b8228ffd1256e.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 1085.1375462118842,
+                    "y": 812.4259341035627,
+                    "width": 865.1377973983058,
+                    "height": 1447.1481317928747
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1658.9213206703566,
+                    "y": 612.3194628642844,
+                    "width": 170.05795138575195,
+                    "height": 317.3645542357774
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 565.0659819918769,
+                    "y": 765.8364783102102,
+                    "width": 447.6362304732379,
+                    "height": 256.56991619903874
+                }
+            }
+        ]
+    },
+    {
+        "image": "caixaaberta26_jpeg.rf.a9588c256b7f0db0b2f2b9fdf403d25e.jpg",
+        "annotations": [
+            {
+                "label": "caixa dagua aberta",
+                "coordinates": {
+                    "x": 152.5174550649282,
+                    "y": 91.6127809538293,
+                    "width": 244.96508987014357,
+                    "height": 182.42536830368405
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0242_jpeg.rf.b49d7804d23bc22741dd85c1c0af85d5.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 888.76457712241,
+                    "y": 687.3734540449765,
+                    "width": 485.7996863335143,
+                    "height": 575.8656016134498
+                }
+            }
+        ]
+    },
+    {
+        "image": "dsc_0039_4_jpeg.rf.a022503c3252bc83e4dc8296ca16bca7.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 543.3327175681778,
+                    "y": 244.73952155050438,
+                    "width": 213.33456486364435,
+                    "height": 307.8944109439677
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 322.7049466249781,
+                    "y": 352.0429810497377,
+                    "width": 67.07066188435556,
+                    "height": 50.61516958827178
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0274_jpeg.rf.9fd8cdc6fa39c36ce92872a9bfefc7d8.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 945.3383952563117,
+                    "y": 588.5288139189681,
+                    "width": 1022.5046665019563,
+                    "height": 914.0027953110484
+                }
+            }
+        ]
+    },
+    {
+        "image": "caixaaberta7_jpeg.rf.b61e6972b8045ff1cda0c4fc08a25a7d.jpg",
+        "annotations": [
+            {
+                "label": "caixa dagua aberta",
+                "coordinates": {
+                    "x": 316.2593814531002,
+                    "y": 186.89798068128974,
+                    "width": 139.5168993378884,
+                    "height": 182.69532258629152
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0264_jpeg.rf.b24355b3d05a7302c7022ff7e49c2df3.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 1001.1246015829327,
+                    "y": 776.2026127072724,
+                    "width": 1561.7507968341347,
+                    "height": 1519.5947745854553
+                }
+            }
+        ]
+    },
+    {
+        "image": "eecc0044afaab09b86d602ae29d4577a_jpeg.rf.b1f27ff8231f5a6c4adebbd51912f8b5.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1204.2858906814336,
+                    "y": 532.2974213362895,
+                    "width": 425.67038815208707,
+                    "height": 488.37683306312397
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1172.0641169553373,
+                    "y": 1336.7463679173138,
+                    "width": 140.17728611886332,
+                    "height": 46.50726416537236
+                }
+            }
+        ]
+    },
+    {
+        "image": "163359_CSA061114A006F03_jpeg.rf.bbd12c09d4e1e4efef6654cc1767c298.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 520.8788723360865,
+                    "y": 139.66800289471126,
+                    "width": 374.7344725652349,
+                    "height": 250.15783845396072
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 304.6133449013214,
+                    "y": 354.5492320972836,
+                    "width": 501.75844527051436,
+                    "height": 320.9015358054328
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0264_jpeg.rf.983b8a235404730f82734f3d9e006d12.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 974.2690937830528,
+                    "y": 760.5448489638421,
+                    "width": 1615.4618124338945,
+                    "height": 1521.0896979276843
+                }
+            }
+        ]
+    },
+    {
+        "image": "Dengue-01_64717_jpeg.rf.ac5225c40130e5ea603171ea6905f41d.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 226.3221402554949,
+                    "y": 622.5075695225878,
+                    "width": 429.8598405167895,
+                    "height": 397.9220506174229
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 854.7213355811905,
+                    "y": 480.84991926158017,
+                    "width": 442.47076778927703,
+                    "height": 433.06168325905185
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 1186.6728961016706,
+                    "y": 338.742179146989,
+                    "width": 162.0197262325819,
+                    "height": 174.85013250158454
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 923.9299202583948,
+                    "y": 207.21098721829242,
+                    "width": 241.74550649282173,
+                    "height": 102.7926528325803
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0257_jpeg.rf.aadad1072d1a00974766596be9be90a9.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 372.14181167152253,
+                    "y": 1068.899407498976,
+                    "width": 713.8724341913335,
+                    "height": 625.8344308620945
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0259_jpeg.rf.af2b67b10f45cf6e671d1453683e284e.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 325.9028550706985,
+                    "y": 1180.9318342878985,
+                    "width": 634.0666630378578,
+                    "height": 709.9966909047771
+                }
+            }
+        ]
+    },
+    {
+        "image": "Focos-2-1024x576_jpeg.rf.be0a39f992b7b955fa215b682a9e6941.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 439.1326193926652,
+                    "y": 254.39710862043717,
+                    "width": 419.9036906409858,
+                    "height": 329.9380240301632
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 114.12041530705831,
+                    "y": 358.9718114668567,
+                    "width": 215.5836233303622,
+                    "height": 307.0563770662866
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 789.8087046078127,
+                    "y": 188.395443271003,
+                    "width": 381.16856998656544,
+                    "height": 233.84126280124383
+                }
+            }
+        ]
+    },
+    {
+        "image": "caixaaberta7_jpeg.rf.bdd3abf99db84a93184dc2b92ff82cc7.jpg",
+        "annotations": [
+            {
+                "label": "caixa dagua aberta",
+                "coordinates": {
+                    "x": 338.00676144140664,
+                    "y": 171.49409526156936,
+                    "width": 134.29369108402943,
+                    "height": 188.6234845508506
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0235_jpeg.rf.b5bf211833211ad82b953bf7a98b0d84.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 1080.6885318882805,
+                    "y": 946.8396235264653,
+                    "width": 1209.623151875785,
+                    "height": 521.7654512539273
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0199_jpeg.rf.bd188d1cda87eb4aac206423a9fbf168.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 1449.2885907072682,
+                    "y": 942.4716751869048,
+                    "width": 1052.0189632161382,
+                    "height": 488.23350471697313
+                }
+            },
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 400.3281675453542,
+                    "y": 511.62708168679274,
+                    "width": 374.87681339005644,
+                    "height": 239.79288218678403
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0256_jpeg.rf.aa45cfe06691cf5f6b707ef40bf0bb02.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 906.995010654741,
+                    "y": 642.6421768265901,
+                    "width": 256.17411819174185,
+                    "height": 224.0123838054824
+                }
+            }
+        ]
+    },
+    {
+        "image": "aguaacumulada3_jpeg.rf.bf4cdf4a1840ad03d98bec606ed91909.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 563.8304600495987,
+                    "y": 629.3328369060035,
+                    "width": 423.5947398760286,
+                    "height": 447.33432618799293
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0237_jpeg.rf.a17aae19a441edfb7d2bbc64a1d5ac35.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 1077.1808490303379,
+                    "y": 759.5859941044664,
+                    "width": 815.6383019393243,
+                    "height": 1519.1719882089328
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0256_jpeg.rf.bea46899d678fa37e667ec40ba8049eb.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 899.7979897950469,
+                    "y": 570.7530388796388,
+                    "width": 258.71355482028434,
+                    "height": 228.22475540000733
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0258_jpeg.rf.c0e3d3c60338b731d4f3de749bc8baf4.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 979.6935608827248,
+                    "y": 584.2332103832423,
+                    "width": 375.13191111828064,
+                    "height": 498.79508155616827
+                }
+            }
+        ]
+    },
+    {
+        "image": "pneus3_jpeg.rf.be8f5ea983360453dbc3c553b3040dc4.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 340.74578815401503,
+                    "y": 192.261680992119,
+                    "width": 315.49157630803006,
+                    "height": 367.476638015762
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 166.62407502469364,
+                    "y": 167.1959531506272,
+                    "width": 145.24815004938728,
+                    "height": 325.6356655742776
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 165.05184239884773,
+                    "y": 359.1890601817442,
+                    "width": 90.87946781836473,
+                    "height": 33.62187963651161
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0207_jpeg.rf.c30f37e1eea1c2868512b753b8ab50f9.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1035.2337401119983,
+                    "y": 985.8093804912887,
+                    "width": 392.271250968196,
+                    "height": 366.33973394584746
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0241_jpeg.rf.c929b347457f870455bdf1520e201ed1.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 785.8016798636162,
+                    "y": 758.7280097161533,
+                    "width": 1254.3966402727676,
+                    "height": 1478.1571511200536
+                }
+            }
+        ]
+    },
+    {
+        "image": "arrastao_dengue_3_jpeg.rf.b569a075905754794534e66c238aa673.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 331.1214121614978,
+                    "y": 127.61032054337376,
+                    "width": 409.7571756770044,
+                    "height": 255.22064108674752
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 331.4346927703952,
+                    "y": 359.76322961387876,
+                    "width": 433.16464445264853,
+                    "height": 301.0429887692886
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 534.3463930165785,
+                    "y": 251.01073017054125,
+                    "width": 196.85734137124336,
+                    "height": 302.8553386784796
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0236_jpeg.rf.c9ae028a1abe6fbd264886b66715329c.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 1068.3470716532884,
+                    "y": 753.2472101318239,
+                    "width": 1004.1210229838871,
+                    "height": 1506.4944202636477
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0260_jpeg.rf.c4a713487f3698e20154020eb5415abb.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1082.7458689149853,
+                    "y": 1251.752048899348,
+                    "width": 330.69531399334574,
+                    "height": 568.495902201304
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0202_jpeg.rf.c711ef876bb5a2e91fbf90dcd666dbe4.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 981.5147618460767,
+                    "y": 867.803112915381,
+                    "width": 694.3954106121273,
+                    "height": 958.0632670937953
+                }
+            }
+        ]
+    },
+    {
+        "image": "Focos-2-1024x576_jpeg.rf.d072c2a33d1ddd9cea0020baea5f608b.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 408.18461487433433,
+                    "y": 256.91224712900924,
+                    "width": 435.97856117514743,
+                    "height": 327.53959728532993
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 94.62281526863634,
+                    "y": 359.57579484420523,
+                    "width": 189.2456305372727,
+                    "height": 305.84841031158953
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 763.8987473366519,
+                    "y": 192.96470882137874,
+                    "width": 392.30540839585365,
+                    "height": 231.65291723114046
+                }
+            }
+        ]
+    },
+    {
+        "image": "caixaaberta7_jpeg.rf.d2e801790959b66706ee22b41460f505.jpg",
+        "annotations": [
+            {
+                "label": "caixa dagua aberta",
+                "coordinates": {
+                    "x": 320.47755607530496,
+                    "y": 150.86846795503274,
+                    "width": 138.4708412078262,
+                    "height": 184.17485345068013
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0267_jpeg.rf.cbed1ac38a461fd4652321e6f188bd95.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 860.2699347967647,
+                    "y": 758.3482920040244,
+                    "width": 926.5398695935294,
+                    "height": 1456.5308616980064
+                }
+            }
+        ]
+    },
+    {
+        "image": "caixaaberta10_jpeg.rf.c7d221a02985e6440c7a8e05fc53cd01.jpg",
+        "annotations": [
+            {
+                "label": "caixa dagua aberta",
+                "coordinates": {
+                    "x": 127.5,
+                    "y": 97.95918535755695,
+                    "width": 255,
+                    "height": 195.9183707151139
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0232_jpeg.rf.c48da4d4223128cc0f63c9c8d3c7d67d.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 577.6117097898216,
+                    "y": 805.1942781169939,
+                    "width": 384.9326825528001,
+                    "height": 143.79193594523986
+                }
+            },
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 624.0020223723551,
+                    "y": 464.4011117979056,
+                    "width": 770.6841796944893,
+                    "height": 537.3509931477413
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0256_jpeg.rf.c6b39ff26f3353e12723f4b638cd0d14.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 975.0593297021126,
+                    "y": 675.8787661867873,
+                    "width": 249.84207243147694,
+                    "height": 232.44398173791114
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0197_jpeg.rf.d6469b6fb398ee1825b90ed9e7375207.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 645.4652064002098,
+                    "y": 894.0020630072621,
+                    "width": 724.3461910782294,
+                    "height": 1239.752801577208
+                }
+            }
+        ]
+    },
+    {
+        "image": "eecc0044afaab09b86d602ae29d4577a_jpeg.rf.bf441ff4371725c2f67adffaca90e131.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 799.2887557478493,
+                    "y": 913.1582746785109,
+                    "width": 433.79435890226546,
+                    "height": 467.6078771737575
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 953.9287600463783,
+                    "y": 67.15315725011764,
+                    "width": 142.14247990724334,
+                    "height": 113.54759511138826
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0275_jpeg.rf.d1d3cb055b497241a388cf77b807079d.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1088.3364210936288,
+                    "y": 927.3920216067534,
+                    "width": 1018.470600748592,
+                    "height": 881.502396299024
+                }
+            }
+        ]
+    },
+    {
+        "image": "img_40317_1_jpeg.rf.d7c6876355d769ba9c898eb2b269865f.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 739.0629091204286,
+                    "y": 451.2270799225871,
+                    "width": 503.92909442774453,
+                    "height": 364.59020316975966
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 386.18199435539435,
+                    "y": 230.2258421182298,
+                    "width": 79.71771276506865,
+                    "height": 87.12219636645767
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 193.30974356923218,
+                    "y": 414.6640012523866,
+                    "width": 147.989204096398,
+                    "height": 131.50972916894045
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0258_jpeg.rf.d5d12d93a399563c8eaeff403c27106e.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 916.779653254044,
+                    "y": 535.5236843726746,
+                    "width": 343.4747023692894,
+                    "height": 504.59369547126016
+                }
+            }
+        ]
+    },
+    {
+        "image": "caixaaberta18_jpeg.rf.cbe64b66bc28a92519e8702dfbdb7b7b.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 122.38040112513326,
+                    "y": 97.89900213094822,
+                    "width": 183.85522098221043,
+                    "height": 159.7966065856624
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0232_jpeg.rf.d9a3bcadab8bfef87f265f46aef5d219.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 1068.14119741078,
+                    "y": 1125.213709076409,
+                    "width": 132.6678348025789,
+                    "height": 390.07444688372107
+                }
+            },
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 729.8132174105164,
+                    "y": 1108.4378161683258,
+                    "width": 515.2483942805172,
+                    "height": 791.169621711334
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0202_jpeg.rf.c7917539b9eef49733b5b9ba6edd73df.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 986.291329722136,
+                    "y": 612.3216774332992,
+                    "width": 947.1565456208341,
+                    "height": 672.6868269539452
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0199_jpeg.rf.d96ae966e5d97e4085a7bf6cec6c586c.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 970.8160973331007,
+                    "y": 1170.278542517579,
+                    "width": 451.7538760825196,
+                    "height": 731.4429149648422
+                }
+            },
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 1311.353853195887,
+                    "y": 275.3244163982246,
+                    "width": 229.38763908115016,
+                    "height": 372.31397181562886
+                }
+            }
+        ]
+    },
+    {
+        "image": "8569_79e5d5ed6237ac6_jpeg.rf.dc7c5b8f8112ef188e98c69802eeedb9.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 222.98030432314596,
+                    "y": 177.54580681929914,
+                    "width": 183.94830625918576,
+                    "height": 170.4566785942871
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 393.175201621813,
+                    "y": 217.97277600524893,
+                    "width": 84.55851166185175,
+                    "height": 99.42273771541045
+                }
+            }
+        ]
+    },
+    {
+        "image": "DSCF1059_jpeg.rf.c6a1c7f255b9bbf33856bc0567df80de.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 1335.261585376668,
+                    "y": 835.9646090111979,
+                    "width": 697.9744329476398,
+                    "height": 665.9037638031512
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 953.8642364844934,
+                    "y": 401.6432949166267,
+                    "width": 372.0695387001442,
+                    "height": 470.05369392326725
+                }
+            },
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 706.7132040292205,
+                    "y": 870.316829719729,
+                    "width": 506.0848076399104,
+                    "height": 544.8158296285023
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0273_jpeg.rf.ddeea41e2f5fb54a030568b4ba0f4e9b.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1029.1680888298279,
+                    "y": 660.9762506070139,
+                    "width": 1511.3361776596557,
+                    "height": 1277.3012823813294
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0272_jpeg.rf.d7a7be58eb8e2438a0d675bc2a0a104c.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1089.2143531508325,
+                    "y": 544.3391894771217,
+                    "width": 294.04864600890005,
+                    "height": 282.34870227556144
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0278_jpeg.rf.dafba1584c288d8c3dd3e871eadaedd4.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 1061.8601473624308,
+                    "y": 1270.4345197709167,
+                    "width": 549.447682430613,
+                    "height": 474.1009032892389
+                }
+            }
+        ]
+    },
+    {
+        "image": "aguaacumulada3_jpeg.rf.dc54301a7db62d1c908e43fe8a3082bc.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 870.7623777102034,
+                    "y": 581.9308026804629,
+                    "width": 544.2282288175959,
+                    "height": 398.77058930527573
+                }
+            }
+        ]
+    },
+    {
+        "image": "163359_CSA061114A006F03_jpeg.rf.ddf601787c52aa1753483f1591480b88.jpg",
+        "annotations": [
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 495.2379030254697,
+                    "y": 359.98345524301965,
+                    "width": 254.4812051797719,
+                    "height": 305.36719000557446
+                }
+            },
+            {
+                "label": "Pneu exposto",
+                "coordinates": {
+                    "x": 269.8182983359168,
+                    "y": 213.14511238153173,
+                    "width": 350.36340332816644,
+                    "height": 426.29022476306346
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0247_jpeg.rf.d105d4827d37d8db461796a939838fa5.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 703.2286416746923,
+                    "y": 482.10329328306136,
+                    "width": 206.14605543054768,
+                    "height": 187.64867349399674
+                }
+            },
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 1389.0825862441447,
+                    "y": 316.2667609065735,
+                    "width": 736.1651724882895,
+                    "height": 632.533521813147
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0238_jpeg.rf.d247e02e1ea6355a9eb1004f43394236.jpg",
+        "annotations": [
+            {
+                "label": "Agua parada",
+                "coordinates": {
+                    "x": 1196.675864204751,
+                    "y": 701.1271503223085,
+                    "width": 1418.7003848073246,
+                    "height": 969.6668503562357
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0251_jpeg.rf.d39e5c3c30678747561920f5bf16f1f7.jpg",
+        "annotations": [
+            {
+                "label": "Recipiente com agua acumulada",
+                "coordinates": {
+                    "x": 994.5263955235556,
+                    "y": 450.01212359319527,
+                    "width": 194.33103496225,
+                    "height": 243.01846174730213
+                }
+            }
+        ]
+    }
+]
